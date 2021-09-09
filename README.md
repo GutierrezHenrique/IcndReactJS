@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Project 🌍
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is random phrases using your name and lastname
+
+This project is create for CRA ReactJS
 
 ## Available Scripts
 
