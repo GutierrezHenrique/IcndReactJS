@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --red: #b00;
+    --blue: #00b;
+    --white: #fff;
+    --borderGreen: rgb(194, 189, 189);
+    --blueGo: #0d9099;
+    --grayGo: rgb(226, 226, 226);
+    --redGo: rgb(245, 48, 48);
+    --black: #000;
+}
+
+body {
+    color: var(--black);
+    background: var(--grayGo);
+    border: 0;
+    padding: 0;
+    margin: 0;
+}
